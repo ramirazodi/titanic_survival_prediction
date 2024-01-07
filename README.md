@@ -1,4 +1,4 @@
-![ai](https://github.com/ramirazodi/titanic_survival_prediction/assets/106940649/b080e910-fcd3-42f6-b653-509136b5a890)# titanic_survival_prediction
+# titanic_survival_prediction
 Jupyter/Kaggle python code for predicting survivors of Titanic using an 8-model voting ensemble pipeline
 
 ![ai](https://github.com/ramirazodi/titanic_survival_prediction/assets/106940649/6a10308c-3790-426e-88d0-0f13bcccb2ea)
